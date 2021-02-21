@@ -21,4 +21,4 @@ The purpose of this project is to help Steve analyze an entire dataset. In this 
 * Refactoring code can be time consuming to set up as we have to make sure all the data is coherent and correct in order to ensure the code runs properly.
 
 How do these pros and cons apply to refactoring the original VBA script?
-###### Although refactoring takes a lot more time to set initially, once that is completed, the results are very good and helps the code run more efficiently. It is definetely worth the extra work at the beginning to set the code correctly for the future user.
+##### *Although refactoring takes a lot more time to set initially, once that is completed, the results are very good and helps the code run more efficiently. It is definetely worth the extra work at the beginning to set the code correctly for the future user.*
