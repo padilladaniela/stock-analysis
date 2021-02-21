@@ -9,7 +9,7 @@ The purpose of this project is to help Steve analyze an entire dataset. In this 
 
  * From the data we can tell that in 2018 stocks had a higher return generally than in 2017. At least, two stocks had a positive returns higher than 80% instead of just one in 2017 at 7.2%.
  * The code from 2018 also ran faster than 2017 while both data sheets had the same number of tickers and same rows to pick calculations from (3013).
- 1. ![VBA_Challenge_2017](VBA_Challenge_2017)
+ 1. ![VBA_Challenge_2017](https://github.com/padilladaniela/stock-analysis/blob/main/VBA_Challenge_2017.png)
  2.  2. 
  
  
