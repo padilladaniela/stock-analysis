@@ -12,6 +12,8 @@ The purpose of this project is to help Steve analyze an entire dataset. In this 
     * ![VBA_Challenge_2017](https://github.com/padilladaniela/stock-analysis/blob/main/VBA_Challenge_2017.png)
     * ![VBA Challenge 2018](https://github.com/padilladaniela/stock-analysis/blob/main/VBA_Challenge_2018.png) 
  
+ 
+ 
  ### *Summary*
 
 #### Advantages of refactoring code
