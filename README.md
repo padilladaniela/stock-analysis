@@ -9,7 +9,8 @@ The purpose of this project is to help Steve analyze an entire dataset. In this 
 
  * From the data we can tell that in 2018 stocks had a higher return generally than in 2018. At least, two stocks had a positive returns higher than 80% instead of just in 2017 only one stock had a negative return and the rest had positive returns. Overall 2017 was a better performing year for these stocks.
 * We made the data easily readable by adding formats to our codes, such as for positive returns the return cells will show as red and for negative returns the cells will show as red. It makes it more visually appealing and better to understand.
- * The code from 2018 ran faster than 2017 while both data sheets had the same number of tickers and same rows to pick calculations from (3013).
+ * The code from 2018 ran faster than 2017 while both data sheets had the same number of tickers and same rows to pick calculations from (3013). To let Steve know what time each sheet ran for we have set up a text box to pop up every time he runs the analysis (  yearValue = InputBox("What year would you like to run the analysis on?")    
+ 
     * ![VBA_Challenge_2017](https://github.com/padilladaniela/stock-analysis/blob/main/VBA_Challenge_2017.png)
     * ![VBA Challenge 2018](https://github.com/padilladaniela/stock-analysis/blob/main/VBA_Challenge_2018.png) 
  
